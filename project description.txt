@@ -1,0 +1,12 @@
+10 steps to make project description.
+
+1.	Summarize: Describe the project in a paragraph or two.
+2.	Define: Why is it necessary?
+3.	Set goals: Follow the SMART goal format.
+4.	Explain: Briefly explain your methodology and any key technologies or project management techniques you’ll use and why they’re appropriate
+5.	Measure: Identify the project deliverables. How will you measure success and evaluate the project?
+6.	Schedule: Include a general timeline, with project phases and milestones.
+7.	Budget: Include the total estimated cost of the project and your budgeted amount.
+8.	Get feedback: Seek feedback from key stakeholders, customers, and anyone impacted by the project for feedback.
+9.	Proofread: Ask someone else to look for errors and missing details.
+10.	Revise: Treat the description as a living document.
